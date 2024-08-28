@@ -1,0 +1,10 @@
+hi
+myself i am vijay jalla ,
+i'm currently working on python and AWS cloud and parallely searching for jobs.
+coming to my educational background-- i have completed my graduation in B.tech in cse at srm univesirty with an aggregate of 8.89,i completed my 12 th standard at sasi jr clg velivennu with 972 marks,and also i completed my 10 th standard at st.ann's em high school bhimavaram with a cgp of 9.5.coming to my family details- my father is a farmer ,and my mother is homemaker and i have one brother ,he is pursuing his degree.
+i have done 2 projects
+1st one is about bank management system and my team size is 3 this project is about web-based to manage various operations .it provides a user-friendly interface that handles everyday banking tasks digitally
+2nd project is about crop disease detection using ml this project aims to helps farmers to find out whether crop is diseased or not in early stages and gives better result
+coming operating systems ihave good understanding in windows and linux...
+regarding technical skills im good at python,html, and i worked on mysql database regarding projects and additionally i learnt about AWS cloud..
+on coming to strengths i am good team player as i worked in diiferent projects as a team memeber and also i can work on any environment
